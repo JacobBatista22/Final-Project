@@ -1,0 +1,94 @@
+[
+  {
+    "id": "SH100",
+    "name": "Zero-Waste Shampoo Bar",
+    "price": "16.00",
+    "description": "Vegan formula with argan oil for all hair types",
+    "fullDescription": "Our shampoo bar is perfect for all hair types, packed with natural argan oil to nourish your hair. Each bar lasts as long as 3 plastic bottles of shampoo!",
+    "features": [
+      "80+ washes",
+      "Plastic-free",
+      "pH balanced",
+      "Vegan"
+    ],
+    "icon": "fas fa-leaf"
+  },
+  {
+    "id": "CB200",
+    "name": "Biodegradable Conditioner Bar",
+    "price": "18.00",
+    "description": "Packaged in compostable materials",
+    "fullDescription": "This conditioner bar provides deep hydration without any synthetic ingredients. The compostable packaging means zero waste!",
+    "features": [
+      "Deep hydration",
+      "No synthetic ingredients",
+      "Compostable packaging"
+    ],
+    "icon": "fas fa-recycle"
+  },
+  {
+    "id": "HS300",
+    "name": "Refillable Hair Serum",
+    "price": "24.00",
+    "description": "Glass bottle with aluminum refill pouches",
+    "fullDescription": "Our lightweight serum comes in a beautiful glass bottle that you can keep forever. Refills come in sustainable aluminum pouches.",
+    "features": [
+      "Lightweight",
+      "No animal testing",
+      "Refill system"
+    ],
+    "icon": "fas fa-flask"
+  },
+  {
+    "id": "HP400",
+    "name": "Plant-Based Heat Protectant",
+    "price": "20.00",
+    "description": "Protects up to 450°F without silicones",
+    "fullDescription": "This innovative formula protects your hair from heat damage without any harmful silicones or parabens.",
+    "features": [
+      "450°F protection",
+      "Silicone-free",
+      "Vegan"
+    ],
+    "icon": "fas fa-fire"
+  },
+  {
+    "id": "BB500",
+    "name": "Bamboo Detangling Brush",
+    "price": "22.00",
+    "description": "100% biodegradable bristles",
+    "fullDescription": "Gentle on hair and the planet, this brush features bamboo bristles that won't damage your hair.",
+    "features": [
+      "Biodegradable",
+      "Gentle detangling",
+      "Sustainable materials"
+    ],
+    "icon": "fas fa-tree"
+  },
+  {
+    "id": "SC600",
+    "name": "Vegan Silk Hair Scrunchies",
+    "price": "15.00",
+    "description": "Made from recycled materials",
+    "fullDescription": "These luxurious scrunchies look and feel like silk but are made from recycled materials.",
+    "features": [
+      "Recycled materials",
+      "No animal products",
+      "Gentle on hair"
+    ],
+    "icon": "fas fa-ribbon"
+  },
+  {
+    "id": "SR700",
+    "name": "Scalp Revival Kit",
+    "price": "32.00",
+    "description": "Includes shampoo bar + bamboo massager",
+    "fullDescription": "Everything you need for a healthy scalp - our best-selling shampoo bar paired with a bamboo scalp massager.",
+    "features": [
+      "Promotes hair growth",
+      "Exfoliates scalp",
+      "Plastic-free"
+    ],
+    "icon": "fas fa-spa"
+  }
+]
